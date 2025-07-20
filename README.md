@@ -12,6 +12,7 @@ Projeto de terminal desenvolvido com Python, usando Programação Orientada a Ob
 - Histórico de compras por cliente
 
 ## 📁 Estrutura do Projeto
+
 - main.py # Menu e interface de terminal
 - produto.py # Classe Produto
 - cliente.py # Classe Cliente
