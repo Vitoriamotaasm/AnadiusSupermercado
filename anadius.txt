@@ -1,0 +1,13 @@
+produto: nome, preco, estoque
+cliente: cpf, nome, historico de compras
+carrinho: lista de produtos, total da compras
+supermercado: produtos disponiveis, cadastro de cliente, busca de produtos, vendas
+
+Como voce armazenaria os produtos no supermercado?
+acho que uma lista é mais viavel
+
+Carrinho guarda os objetos com quantidade
+
+Se a pessoa tentar comprar mais que o disponivel, da erro.
+
+O estoque diminui ao finalizar compra. 
