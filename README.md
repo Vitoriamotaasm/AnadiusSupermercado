@@ -24,5 +24,5 @@ Versão MVP com foco em prática de lógica, classes e terminal.
 
 ---
 
-Feito com 💻 por [Seu Nome]
+Feito com 💻 por Vitória Mota
 
