@@ -17,7 +17,7 @@ class Supermercado:
             return
           
     def cadastrarCliente(self, nome, cpf):
-        self.clientes[nome] = Cliente(self, nome, cpf)
+        self.clientes[nome] = Cliente(nome, cpf)
         print(f"Cliente '{nome}' cadastrado com sucesso!")
 
     def realizarVenda(self, cliente, carrinho):
